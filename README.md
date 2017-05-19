@@ -1,0 +1,2 @@
+# yacdn
+Yet Another CDN
